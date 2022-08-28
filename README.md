@@ -2,8 +2,8 @@
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning js
 - 📫 How to reach me? Come here:
-Instagram.com/soroushradmard
-Linkedin.com/in/soroush-radmard
+https://Instagram.com/soroushradmard
+https://Linkedin.com/in/soroush-radmard
 
 <!---
 soroush-radmard/soroush-radmard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
