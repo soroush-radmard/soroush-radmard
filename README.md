@@ -2,8 +2,7 @@
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning js
 - 📫 How to reach me? Come here:
-https://Instagram.com/soroushradmard
-https://Linkedin.com/in/soroush-radmard
+  https://instagram.com/soroushradmard
   My creative codes and designs: https://codepen.io/soroush-radmard
 
 <!---
